@@ -13,7 +13,7 @@ const (
 )
 
 var (
-	apiEndpoints = [2]string{"/api/apple", "/api/banana"}
+	apiEndpoints = [2]string{"/api/efectivo", "/api/tarjeta"}
 )
 
 func main() {
